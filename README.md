@@ -7,7 +7,7 @@ Project Structure & Task Breakdown
 
 | Task | File(s) | Purpose |
 |------|---------|---------|
-| 0: Documentation | AUTHORS | Contributors and project documentation |
+| 0: Documentation | AUTHORS | Contributor and project documentation |
 | 1: Code Standards | All files | PEP8 compliance across codebase |
 | 2: Testing Framework | /tests | Comprehensive unit testing for all modules |
 | 3: Base Class Implementation | /models/base_model.py | Foundation class for inheritance hierarchy |
