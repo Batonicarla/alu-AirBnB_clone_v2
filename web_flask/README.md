@@ -1,1 +1,1 @@
-# AirBnB clone - Web framework
+# AirBnB clone - Command Line Interface
